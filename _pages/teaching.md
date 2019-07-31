@@ -6,7 +6,7 @@ description: Upcoming and past courses
 ---
 ### R courses at CSC 
 
-- September 23 2019: R Basics [Registration link](https://www.csc.fi/web/training/-/r-basics)
+- September 23 2019: R Basics [Course website](https://www.csc.fi/web/training/-/r-basics)
 - June 17 2019: Introduction to Base R
 
 ### R courses at external institutes
