@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching and courses
+description: Upcoming and past courses
 ---
 ### R courses at CSC 
 
