@@ -17,7 +17,7 @@ description: Upcoming and past courses
 
 - 2013–2017: Supervisor for six Masters students (Universities of Vienna and Edinburgh)
 - 2016: Practical Instructor (International FISH Course, University of Vienna) [Course website](http://www.microbial-ecology.net/international-fish-course) 
-- 2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh) [Coursera](https://www.coursera.org/learn/astrobiology)
+- 2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh) [Course website](https://www.coursera.org/learn/astrobiology)
 
 ### Teacher training
 
