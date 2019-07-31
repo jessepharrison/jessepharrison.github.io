@@ -5,7 +5,7 @@ title: Publications
 description: Papers and technical reports
 ---
 
-Citation data on [Google Scholar](https://scholar.google.com/citations?user=ZqkvSqsAAAAJ)
+- Citation data on [Google Scholar](https://scholar.google.com/citations?user=ZqkvSqsAAAAJ)
 
 ### 2019
 
