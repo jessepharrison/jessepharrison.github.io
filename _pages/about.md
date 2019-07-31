@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>jesse.harrison@csc.fi</p>
-    <p>CSC - IT Center for Science Ltd.</p>
-    <p>P.O. Box 405</p>
-    <p>FI-02101 Espoo, Finland</p>
+    <p> jesse.harrison@csc.fi</p>
+    <p> CSC - IT Center for Science Ltd.</p>
+    <p> P.O. Box 405</p>
+    <p> FI-02101 Espoo, Finland</p>
 
 news: true
 social: true
@@ -33,13 +33,13 @@ and environmental chemistry.
   [Aquatic Biogeochemistry Research Unit](https://www.helsinki.fi/en/researchgroups/aquatic-biogeochemistry)
 - 2015-2017: Postdoc, University of Vienna, [Division of Microbial Ecology](https://www.microbial-ecology.net/)
 - 2014-2015: Technical Advisory Group member, 
-[Department for Environment, Food & Rural Affairs](http://www.defra.gov.uk/).
+[Department for Environment, Food & Rural Affairs](http://www.defra.gov.uk/)
 - 2012-2015: Postdoc, The University of Edinburgh, 
 [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/)
 - 2008-2012: PhD student, The University of Sheffield, 
 [Department of Animal and Plant Sciences](https://www.sheffield.ac.uk/aps)
 - [Full CV](Harrison_CV.pdf)
  
-Fore more info, please use the links above to navigate my page. You're
-also welcome to contact me in either Finnish or English. Thanks for visiting!
+Fore more info, please use the links on the top right to navigate my page. You're
+also welcome to email me in either Finnish or English. Thanks for visiting!
 

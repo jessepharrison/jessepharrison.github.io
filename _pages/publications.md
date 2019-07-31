@@ -5,9 +5,9 @@ title: Publications
 description: Papers and technical reports
 ---
 
-- Citation data on [Google Scholar](https://scholar.google.com/citations?user=ZqkvSqsAAAAJ)
+Citation data on [Google Scholar](https://scholar.google.com/citations?user=ZqkvSqsAAAAJ)
 
-### 2019 / In Press
+### 2019
 
 - Cockell CS, Harrison JP, Stevens A, Payler SJ, Hughes SS, Nawotniak SEK, Brady AL, Elphic RC, Haberle CW, Sehlke A, Beaton K, Abercromby A, Schwendner P, Wadsworth J, Landenmark H, Cane R, Dickinson AW, Nicholson N, Perera L, Lim DSS (2019) A low diversity microbiota inhabits extreme basaltic terrains and their fumaroles: implications for the exploration of Mars. Astrobiology 19: 284–299. [full-text](https://www.liebertpub.com/doi/full/10.1089/ast.2018.1870)
 
