@@ -29,7 +29,7 @@ description: Papers and technical reports
 - Freeman K, Harrison JP, Dobinson L, Cockell CS, McKenzie R, Wyllie D, Nixon SL (2016) Mapping limits to life on Earth. Astronomy & Geophysics 57: 2.15–2.17. [full-text](http://astrogeo.oxfordjournals.org/content/57/2/2.15.full)
 - Harrison JP, Aggarwal SD, Cockell CS (2016) Salinity influences the response of Halomonas hydrothermalis to artificial fossilization by evaporative silicification. Geomicrobiology Journal 33: 377–386. [full-text](http://www.tandfonline.com/doi/full/10.1080/01490451.2015.1045634)
 - Horneck G, Walter N, Westall F, Grenfell JL, Martin WF, Gomez F, Leuko S, Lee N, Onofri S, Kleomenis T, Raffaele S, Pilat-Lohinger E, Ernesto P, Harrison JP, Rull F, Muller C, Strazzulla G, Brucato JR, Rettberg P, Capria MT (2016) AstRoMap European Astrobiology Roadmap. Astrobiology 16: 201–243 (Published as a special issue). [full-text](https://www.liebertpub.com/doi/full/10.1089/ast.2015.1441)
-- Cockell CS, Bush T, Bryce CC, Direito S, Fox-Powell M, Harrison JP, Lammer H, Landenmark H, Martin-Torres J, Nicholson N, Noack L, O’Malley-James J, Payler SJ, Rushby A, Samuels T, Schwendner P, Zorzano MP (2016) Habitability: a review. Astrobiology 16: 89–117. [full-text](http://online.liebertpub.com/doi/pdfplus/10.1089/ast.2015.1295), [front cover feature](http://online.liebertpub.com/action/showLargeCover?issue=40360203)
+- Cockell CS, Bush T, Bryce CC, Direito S, Fox-Powell M, Harrison JP, Lammer H, Landenmark H, Martin-Torres J, Nicholson N, Noack L, O’Malley-James J, Payler SJ, Rushby A, Samuels T, Schwendner P, Zorzano MP (2016) Habitability: a review. Astrobiology 16: 89–117. [full-text](http://online.liebertpub.com/doi/pdfplus/10.1089/ast.2015.1295)
 
 ### 2015
 
@@ -44,7 +44,7 @@ description: Papers and technical reports
 
 ### 2013
 
-- Harrison JP, Gheeraert N, Tsigelnitskiy D, Cockell CS (2013) The limits for life under multiple extremes. Trends in Microbiology 21: 204–212. [full-text](http://www.sciencedirect.com/science/article/pii/S0966842X13000206), [front cover feature](http://www.cell.com/cms/attachment/2007951306/2030487038/cover.tif.jpg)
+- Harrison JP, Gheeraert N, Tsigelnitskiy D, Cockell CS (2013) The limits for life under multiple extremes. Trends in Microbiology 21: 204–212. [full-text](http://www.sciencedirect.com/science/article/pii/S0966842X13000206)
 
 ### 2012
 
