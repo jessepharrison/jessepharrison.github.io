@@ -31,7 +31,7 @@ and environmental chemistry.
   [Medical Bioinformatics Centre](https://elolab.utu.fi/)
 - 2017-2018: Postdoc, University of Helsinki,
   [Aquatic Biogeochemistry Research Unit](https://www.helsinki.fi/en/researchgroups/aquatic-biogeochemistry)
-- 2015-2017: Postdoc, University of Vienna, [Division of Microbial Ecology](https://www.microbial-ecology.net/)
+- 2015-2017: Postdoc, University of Vienna, [Division of Microbial Ecology](http://www.microbial-ecology.net/)
 - 2014-2015: Technical Advisory Group member, 
 [Department for Environment, Food & Rural Affairs](http://www.defra.gov.uk/)
 - 2012-2015: Postdoc, The University of Edinburgh, 
