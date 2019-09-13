@@ -19,8 +19,8 @@ social: true
 
 At CSC, my responsibilities focus on research support, HPC service
 maintenance and teaching using R. Between 2012 and 2019 I held 
-several postdoc positions involving research into microbial ecology,
-environmental chemistry and astrobiology.
+several postdoc positions involving research into microbial ecology and
+environmental chemistry.
 
 **Brief CV**
 
