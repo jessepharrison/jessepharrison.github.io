@@ -12,7 +12,10 @@ description: Upcoming and past courses
 
 ### R courses at external institutes
 
-- September 03–04 2019: Statistics with R (KLTO-132, University of Helsinki) [Course website](https://www.github.com/jessepharrison/hy-r-intro)
+Statistics with R (KLTO-132), University of Helsinki [Course website](https://www.github.com/jessepharrison/hy-r-intro)
+
+- December 16–17 2019
+- September 03–04 2019
 
 ### Other teaching
 
@@ -20,8 +23,7 @@ description: Upcoming and past courses
 - 2016: Practical Instructor (International FISH Course, University of Vienna) [Course website](http://www.microbial-ecology.net/international-fish-course) 
 - 2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh) [Course website](https://www.coursera.org/learn/astrobiology)
 
-### Certifications
+### Teacher training
 
-- August 21 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
-
-
+- September – December 2019: "Training the Trainer" programme (CSC / Haaga-Helia University of Applied Sciences)
+- August 21 2019: Data Carpentry Instructor certification [The Carpentries website](https://carpentries.org/)
