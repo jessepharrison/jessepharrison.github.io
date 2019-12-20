@@ -7,21 +7,18 @@ description: Upcoming and past courses
 
 ### R courses at CSC
 
-Data Analysis with R
+Data Analysis with R [Course website](https://www.github.com/csc-training/da-with-r)
 
-- Spring 2020 (TBC)
-
-R Basics
-
-- September 23 2019
+- Feb 04-05 2020
+- Sept 23 2019
 - June 17 2019
 
 ### R courses at external institutes
 
-Statistics with R (KLTO-132), University of Helsinki [Course website](https://www.github.com/jessepharrison/hy-r-intro)
+Statistics with R (KLTO-132), University of Helsinki [Course website](https://courses.helsinki.fi/en/klto-132)
 
-- December 16–17 2019
-- September 03–04 2019
+- Dec 17–18 2019
+- Sept 03–04 2019
 
 ### Other teaching
 
@@ -31,5 +28,5 @@ Statistics with R (KLTO-132), University of Helsinki [Course website](https://ww
 
 ### Teacher training
 
-- September – December 2019: "Training the Trainer" programme (CSC / Haaga-Helia University of Applied Sciences)
+- September – December 2019: Training the Trainer programme (CSC / Haaga-Helia University of Applied Sciences)
 - August 21 2019: Data Carpentry Instructor certification [The Carpentries website](https://carpentries.org/)
