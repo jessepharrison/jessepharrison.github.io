@@ -29,7 +29,6 @@ Statistics with R (KLTO-132), University of Helsinki [Course website](https://co
 Microbial Community Analysis with Chipster
 
 - April 21 2020 (CSC)
-
 - Jan 10 2020 (Finnish Food Authority)
 
 ### Other teaching
