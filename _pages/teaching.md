@@ -24,6 +24,14 @@ Statistics with R (KLTO-132), University of Helsinki [Course website](https://co
 - Dec 17–18 2019
 - Sept 03–04 2019
 
+### Chipster software courses
+
+Microbial Community Analysis with Chipster
+
+- April 21 2020 (CSC)
+
+- Jan 10 2020 (Finnish Food Authority)
+
 ### Other teaching
 
 - 2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
