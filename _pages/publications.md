@@ -6,6 +6,8 @@ description: Papers and technical reports
 ---
 
 - Citation data on [Google Scholar](https://scholar.google.com/citations?user=ZqkvSqsAAAAJ)
+- Peer review record on [Publons](https://publons.com/researcher/336455/jesse-harrison/)
+- ORCID identifier: [0000-0002-4877-4684](https://orcid.org/0000-0002-4877-4684)
 
 ### 2019
 

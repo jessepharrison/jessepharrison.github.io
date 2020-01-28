@@ -7,6 +7,10 @@ description: Upcoming and past courses
 
 ### R courses at CSC
 
+Data Carpentry [Course website](https://www.csc.fi/web/training/-/dc-2020)
+
+- May 14-15 2020
+
 Data Analysis with R [Course website](https://www.github.com/csc-training/da-with-r)
 
 - Feb 04-05 2020
@@ -22,11 +26,11 @@ Statistics with R (KLTO-132), University of Helsinki [Course website](https://co
 
 ### Other teaching
 
-- 2013–2017: Supervisor for six Masters students (Universities of Vienna and Edinburgh)
+- 2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
 - 2016: Practical Instructor (International FISH Course, University of Vienna) [Course website](http://www.microbial-ecology.net/international-fish-course) 
 - 2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh) [Course website](https://www.coursera.org/learn/astrobiology)
 
 ### Teacher training
 
-- September – December 2019: Training the Trainer programme (CSC / Haaga-Helia University of Applied Sciences)
-- August 21 2019: Data Carpentry Instructor certification [The Carpentries website](https://carpentries.org/)
+- September – December 2019: Training the Trainer (CSC / Haaga-Helia University of Applied Sciences)
+- August 21 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
