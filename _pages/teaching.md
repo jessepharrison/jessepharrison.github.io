@@ -9,7 +9,7 @@ description: Upcoming and past courses
 
 Data Carpentry [Course website](https://www.csc.fi/web/training/-/dc-2020)
 
-- May 14-15 2020
+- CANCELLED: May 14-15 2020
 
 Data Analysis with R [Course website](https://www.github.com/csc-training/da-with-r)
 
