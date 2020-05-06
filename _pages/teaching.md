@@ -9,7 +9,7 @@ For CSC course registrations, [visit the CSC Customer Training website](https://
 
 ### Remote courses
 
-Data Analysis with R (Zoom)
+Data Analysis with R
 
 - May 28-29 2020
 
