@@ -13,6 +13,10 @@ Data Analysis with R (Zoom)
 
 - May 28-29 2020
 
+Microbial Community Analysis with Chipster
+
+- April 21 2020
+
 ### Courses at CSC
 
 Data Analysis with R
@@ -20,10 +24,6 @@ Data Analysis with R
 - Feb 04-05 2020
 - Sept 23 2019
 - June 17 2019
-
-Microbial Community Analysis with Chipster 
-
-- April 21 2020
 
 ### Courses at external institutes
 
