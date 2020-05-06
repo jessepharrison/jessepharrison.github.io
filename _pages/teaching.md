@@ -5,6 +5,8 @@ title: Teaching
 description: Upcoming and past courses
 ---
 
+For CSC course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
+
 ### Remote courses
 
 Data Analysis with R (Zoom)
@@ -13,7 +15,7 @@ Data Analysis with R (Zoom)
 
 ### Courses at CSC
 
-Data Analysis with R [Course website](https://www.github.com/csc-training/da-with-r)
+Data Analysis with R
 
 - Feb 04-05 2020
 - Sept 23 2019
