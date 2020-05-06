@@ -5,11 +5,13 @@ title: Teaching
 description: Upcoming and past courses
 ---
 
-### R courses at CSC
+### Remote courses
 
-Data Carpentry [Course website](https://www.csc.fi/web/training/-/dc-2020)
+Data Analysis with R (Zoom)
 
-- CANCELLED: May 14-15 2020
+- May 28-29 2020
+
+### Courses at CSC
 
 Data Analysis with R [Course website](https://www.github.com/csc-training/da-with-r)
 
@@ -17,18 +19,19 @@ Data Analysis with R [Course website](https://www.github.com/csc-training/da-wit
 - Sept 23 2019
 - June 17 2019
 
-### R courses at external institutes
+Microbial Community Analysis with Chipster 
+
+- April 21 2020
+
+### Courses at external institutes
 
 Statistics with R (KLTO-132), University of Helsinki [Course website](https://courses.helsinki.fi/en/klto-132)
 
 - Dec 17–18 2019
 - Sept 03–04 2019
 
-### Chipster software courses
-
 Microbial Community Analysis with Chipster
 
-- April 21 2020 (CSC)
 - Jan 10 2020 (Finnish Food Authority)
 
 ### Other teaching
