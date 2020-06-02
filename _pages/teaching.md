@@ -12,13 +12,13 @@ For CSC course registrations, [visit the CSC Customer Training website](https://
 Data Analysis with R
 
 - Feb 04-05 2020 (CSC)
-- Sept 23 2019 (CSC)
-- June 17 2019 (CSC)
+- Sep 23 2019 (CSC)
+- Jun 17 2019 (CSC)
 
 Statistics with R (KLTO-132), University of Helsinki [Course website](https://courses.helsinki.fi/en/klto-132)
 
 - Dec 17–18 2019
-- Sept 03–04 2019
+- Sep 03–04 2019
 
 Microbial Community Analysis with Chipster
 
@@ -34,7 +34,7 @@ Data Analysis with R
 
 Microbial Community Analysis with Chipster
 
-- April 21 2020
+- Apr 21 2020
 
 ### Other teaching
 
@@ -44,4 +44,6 @@ Microbial Community Analysis with Chipster
 
 ### Certifications
 
-- August 21 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
+- Aug 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
+
+
