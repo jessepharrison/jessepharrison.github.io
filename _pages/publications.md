@@ -9,6 +9,10 @@ description: Papers and technical reports
 - Peer review record on [Publons](https://publons.com/researcher/336455/jesse-harrison/)
 - ORCID identifier: [0000-0002-4877-4684](https://orcid.org/0000-0002-4877-4684)
 
+### 2020
+
+- Tagg AS, Sapp M, Harrison JP, Sinclair CJ, Bradley E, Ju-Nam Y, Ojeda JJ (2020) Microplastic monitoring at different stages in a wastewater treatment plant using reflectance micro-FT-IR imaging. *Under revision*
+
 ### 2019
 
 - Cockell CS, McMahon S, Lim DSS, Rummel J, Stevens A, Hughes SS, Nawotniak SEK, Brady AL, Marteinsson V, Martin-Torres J, Zorzano MP, Harrison JP (2019) Sample collection and return from Mars: optimising sample collection based on the microbial ecology of terrestrial volcanic environments. Space Science Reviews 215: 44. [full-text](https://link.springer.com/article/10.1007/s11214-019-0609-7)
