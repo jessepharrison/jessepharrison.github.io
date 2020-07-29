@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, software development (Chipster analysis software for sequencing data), research and data analysis support, and leading the development and delivery of R courses. Between 2012 and 2019 I held several postdoc positions focusing on microbial ecology, astrobiology and environmental chemistry.
+At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, software development (Chipster software for high-throughput sequencing data), research and data analysis support, and the development and delivery of R courses. Between 2012 and 2019 I held several postdoc positions focusing on microbial ecology, astrobiology and environmental chemistry.
 
 **Brief CV**
 
