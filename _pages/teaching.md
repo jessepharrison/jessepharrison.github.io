@@ -26,10 +26,11 @@ Microbial Community Analysis with Chipster
 
 ### Remote courses
 
-Courses delivered as Zoom webinars:
+Courses delivered via Zoom and  [eLena](e-learn.csc.fi/):
 
 Data Analysis with R
 
+- Dec 03-04 2020
 - May 28-29 2020
 
 Microbial Community Analysis with Chipster
@@ -45,5 +46,3 @@ Microbial Community Analysis with Chipster
 ### Certifications
 
 - Aug 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
-
-

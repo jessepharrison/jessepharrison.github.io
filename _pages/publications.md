@@ -11,7 +11,7 @@ description: Papers and technical reports
 
 ### 2020
 
-- Tagg AS, Sapp M, Harrison JP, Sinclair CJ, Bradley E, Ju-Nam Y, Ojeda JJ (In press) Microplastic monitoring at different stages in a wastewater treatment plant using reflectance micro-FT-IR imaging. Frontiers in Environmental Science
+- Tagg AS, Sapp M, Harrison JP, Sinclair CJ, Bradley E, Ju-Nam Y, Ojeda JJ (2020) Microplastic monitoring at different stages in a wastewater treatment plant using reflectance micro-FT-IR imaging. Frontiers in Environmental Science 8:145. [full-text](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00145/full)
 
 ### 2019
 
