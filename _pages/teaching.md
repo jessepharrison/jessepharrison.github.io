@@ -28,9 +28,14 @@ Microbial Community Analysis with Chipster
 
 Courses delivered via Zoom and  [eLena](e-learn.csc.fi/):
 
+Statistics with R (KLTO-132), University of Helsinki [Course website](https://courses.helsinki.fi/en/klto-132)
+
+- Oct 26-28
+
 Data Analysis with R
 
 - Dec 03-04 2020
+- Nov 16-18 2020 (University of Helsinki)
 - May 28-29 2020
 
 Microbial Community Analysis with Chipster
@@ -43,6 +48,8 @@ Microbial Community Analysis with Chipster
 - 2016: Practical Instructor (International FISH Course, University of Vienna) [Course website](http://www.microbial-ecology.net/international-fish-course) 
 - 2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh) [Course website](https://www.coursera.org/learn/astrobiology)
 
-### Certifications
+### Certifications and instructor training
 
+- Sep 2020:  Mastery Rubric for Bioinformatics (GOBLET remote workshop) [GOBLET website](https://mygoblet.org/)
 - Aug 2019: Data Carpentry Instructor [The Carpentries website](https://carpentries.org/)
+- 2019 - present: Training the Trainer (CSC internal training)
