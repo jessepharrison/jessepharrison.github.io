@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> jesse.harrison@csc.fi</p>
+    <p> jesse.harrison [at] csc.fi</p>
     <p> CSC - IT Center for Science Ltd.</p>
     <p> P.O. Box 405</p>
     <p> FI-02101 Espoo, Finland</p>
