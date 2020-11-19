@@ -11,8 +11,8 @@ description: Papers and technical reports
 
 ### 2020
 
-- Pinto M, Zenner PP, Langer TM, Harrison JP, Simon M, Varela MM, Herndl GJ (2020) Putative degraders of low-density polyethylene-derived compounds are ubiquitous members of plastic-associated bacterial communities in the marine environment. Environmental Microbiology 22: 4779-4793. [full-text](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15232)
-- Tagg AS, Sapp M, Harrison JP, Sinclair CJ, Bradley E, Ju-Nam Y, Ojeda JJ (2020) Microplastic monitoring at different stages in a wastewater treatment plant using reflectance micro-FT-IR imaging. Frontiers in Environmental Science 8:145. [full-text](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00145/full)
+- [Putative degraders of low-density polyethylene-derived compounds are ubiquitous members of plastic-associated bacterial communities in the marine environment.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15232) Pinto M, Zenner PP, Langer TM, Harrison JP, Simon M, Varela MM, Herndl GJ. Environmental Microbiology 22: 4779-4793.
+- [Microplastic monitoring at different stages in a wastewater treatment plant using reflectance micro-FT-IR imaging.](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00145/full) Tagg AS, Sapp M, Harrison JP, Sinclair CJ, Bradley E, Ju-Nam Y, Ojeda JJ. Frontiers in Environmental Science 8:145.
 
 ### 2019
 
