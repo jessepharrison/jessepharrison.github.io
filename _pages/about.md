@@ -28,4 +28,5 @@ At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster,
 - 2014-2015: Technical Advisory Group member, [Department for Environment, Food & Rural Affairs](http://www.defra.gov.uk/)
 - 2012-2015: Postdoc, The University of Edinburgh, [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/)
 - 2008-2012: PhD student, The University of Sheffield, [Department of Animal and Plant Sciences](https://www.sheffield.ac.uk/aps)
-- [Full CV](Harrison_CV.pdf)
+
+A copy of my full CV [can be found here.](Harrison_CV.pdf)
