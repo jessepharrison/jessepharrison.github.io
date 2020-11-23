@@ -13,7 +13,7 @@ Courses delivered via Zoom and [CSC e-learn](e-learn.csc.fi/):
 
 [Data Analysis with R](https://github.com/csc-training/da-with-r-remote)
 
-- Dec 03-04 2020
+- Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
 - May 28-29 2020
 
