@@ -37,7 +37,7 @@ We can generate several useful images, such as prevalence plots that can help wi
 When we've tidied the data and are ready to examine some patterns, we can produce ordinations such as this one (either with or without sample labels appended to individual data points):
 
 <p align="center">
-  <img width="95%" height="95%" src="{{ site.url }}/assets/img/chipster-nmds.png">
+  <img width="60%" height="60%" src="{{ site.url }}/assets/img/chipster-nmds.png">
 </p>
 
 Let's say that we'd like to analyse the data using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). In support of a table containing more detailed analysis output, we can visualise log-fold changes:
@@ -56,11 +56,11 @@ The workflow screen contains a visual representation of your entire workflow (in
 
 ### What's next?
 
-With these tools freshly out of the oven, feedback and suggestions are essential to improving these tools even further. Any feedback is greatly appreciated! We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
+With these tools freshly out of the oven, any feedback or suggestions are greatly appreciated! Your comments will be taken onboard while developing the next version. We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
 
 ### Brief glossary
 
-Microbiologists love their acronyms, so here's a small list:
+Microbiologists love their acronyms, so here's a list:
 
 - CLR (centered log-ratio)
 - db-RDA (distance-based redundancy analysis)
@@ -75,5 +75,5 @@ Microbiologists love their acronyms, so here's a small list:
 
 Like many of the tools on Chipster, these ones are largely based on [mothur](https://mothur.org/) and [R](https://www.r-project.org/) scripts. Without the people developing and maintaining these (and packages including [phyloseq](https://joey711.github.io/phyloseq/), [vegan](https://cran.r-project.org/web/packages/vegan/) and [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)), creating something like this would be far more difficult. More information on the software and R packages used can be found in the Chipster documentation.
 
-While creating these tools, I've had a huge amount of help from many colleagues (including Eija Korpelainen, Petri Klemelä, Taavi Hupponen, Ari-Matti Saren and Maria Lehtivaara), to whom I owe my thanks.
+While creating these tools, I've also had a huge amount of help from many colleagues (including Eija Korpelainen, Petri Klemelä, Taavi Hupponen, Ari-Matti Saren and Maria Lehtivaara), to whom I owe my thanks.
 
