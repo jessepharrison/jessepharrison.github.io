@@ -6,7 +6,7 @@ date: 2021-03-05
 
 During 2020, one of my tasks was to develop a set of semi-automated tools for analysing microbial community data sets using [Chipster](https://chipster.csc.fi/), an open-source platform hosted by [CSC](https://www.csc.fi/en/). By enabling easy-to-use bioinformatics workflows that require no programming experience, Chipster aims to make computational approaches more accessible to researchers working in diverse fields.
 
-The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I will briefly discuss the features offered in the first iteration of this 'community analysis toolbox'. Hope you find the new features useful! As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
+The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I will briefly discuss the features offered in the first iteration of this toolbox. Hope you find the new features useful! As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
 
 ### What's included?
 
@@ -26,31 +26,37 @@ The tools link with wider features in Chipster, including options for taxonomic 
 
 ### What does it look like?
 
-The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of the things we can do (for the purposes of this text, I'm focusing on the pretty pictures!).
+The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of the things we can do (for the purposes of this text, I'm focusing on pretty pictures!).
 
 We can generate several useful images, such as prevalence plots that can help with data processing and tidying. That part of the tool set is based on [this excellent paper](https://f1000research.com/articles/5-1492/v2) by Callahan and co-workers. 
 
 <p align="center">
-<img width="700" height="538" src="{{ site.url }}/assets/img/chipster-prev.png">
+<img src="{{ site.url }}/assets/img/chipster-prev.png">
 </p>
 
 When we've tidied the data and are ready to examine some patterns, we can produce ordinations such as this one (either with or without sample labels appended to individual data points):
 
-![prevalence plot]({{ site.url }}/assets/img/chipster-nmds.png)
+<p align="center">
+<img src="{{ site.url }}/assets/img/chipster-nmds.png">
+</p>
 
 Let's say that we'd like to analyse the data using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). Further to a table containing more detailed analysis output, we can also visualise log-fold changes:
 
-![deseq2]({{ site.url }}/assets/img/chipster-deseq2.png)
+<p align="center">
+<img src="{{ site.url }}/assets/img/chipster-deseq2.png">
+</p>
 
 If you've used Chipster before, you will be familiar with the workflow screen containing information on the individual steps you've taken within a particular session. In case you're new to the platform, here is a partial preview of a workflow: 
 
-![chipster workflow]({{ site.url }}/assets/img/chipster-workflow.png)
+<p align="center">
+<img src="{{ site.url }}/assets/img/chipster-workflow.png">
+</p>
 
-Essentially, the workflow screen contains a visual representation of your entire workflow (including all output files and analysis steps). We can see how the different files and analysis results relate to one another and the different tools used. Of course, all the files can be exported to your computer, for further use. Pretty neat!
+The workflow screen contains a visual representation of your entire workflow (including all output files and analysis steps). We can see how the different files and analysis results relate to one another and the different tools used. All the files can be exported to your computer, for further use. Pretty neat!
 
 ### What's next?
 
-With these tools freshly out of the oven, the Chipster team will carefully listen to any user feedback and suggestions. Any feedback on these new features is greatly appreciated! We are also in the process of assembling a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
+With these tools freshly out of the oven, feedback and suggestions are essential to improving these tools even further. Any feedback is greatly appreciated! We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
 
 ### Brief glossary
 
