@@ -22,11 +22,11 @@ Which new features are available? The tools span both data processing and statis
 - Community comparisons using PERMANOVA, PERMDISP and post-hoc pairwise comparisons
 - Differential OTU abundance analysis using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 
-The tools link with wider features in Chipster, including options for taxonomic classification using SILVA and UNITE reference databases. It is also possible to use a reference of your own. Depending on the data set, taxonomic classifications can be performed at six or seven different taxonomic levels.
+The tools link with wider features in Chipster, including options for taxonomic classification using SILVA and UNITE reference databases. It is also possible to use a reference of your own. Depending on the data set, taxonomic classifications can be performed at six or seven different levels.
 
 ### What does it look like?
 
-The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of the things we can do (for the purposes of this text, I'm focusing on pretty pictures...).
+The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of things we can do (for the purposes of this text, I'm focusing on pretty pictures...).
 
 We can generate several useful images, such as prevalence plots that can help with data processing and tidying. That part of the tool set is based on [this excellent paper](https://f1000research.com/articles/5-1492/v2) by Callahan and co-workers. 
 
@@ -59,8 +59,6 @@ The workflow screen contains a visual representation of your entire workflow (in
 With these tools freshly out of the oven, any feedback or suggestions are greatly appreciated. Your comments will be taken onboard while developing the next version. We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
 
 ### Brief glossary
-
-Microbiologists love their acronyms, so here's a list:
 
 - CLR (centered log-ratio)
 - db-RDA (distance-based redundancy analysis)
