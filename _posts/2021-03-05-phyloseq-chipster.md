@@ -31,25 +31,25 @@ The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on
 We can generate several useful images, such as prevalence plots that can help with data processing and tidying. That part of the tool set is based on [this excellent paper](https://f1000research.com/articles/5-1492/v2) by Callahan and co-workers. 
 
 <p align="center">
-  <img width="70%" height="70%" src="{{ site.url }}/assets/img/chipster-prev.png">
+  <img width="80%" height="80%" src="{{ site.url }}/assets/img/chipster-prev.png">
 </p>
 
 When we've tidied the data and are ready to examine some patterns, we can produce ordinations such as this one (either with or without sample labels appended to individual data points):
 
 <p align="center">
-  <img width="70%" height="70%" src="{{ site.url }}/assets/img/chipster-nmds.png">
+  <img width="50%" height="50%" src="{{ site.url }}/assets/img/chipster-nmds.png">
 </p>
 
 Let's say that we'd like to analyse the data using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). Further to a table containing more detailed analysis output, we can also visualise log-fold changes:
 
 <p align="center">
-  <img width="70%" height="70%" src="{{ site.url }}/assets/img/chipster-deseq2.png">
+  <img width="90%" height="90%" src="{{ site.url }}/assets/img/chipster-deseq2.png">
 </p>
 
 If you've used Chipster before, you will be familiar with the workflow screen containing information on the individual steps you've taken within a particular session. In case you're new to the platform, here is a partial preview of a workflow: 
 
 <p align="center">
-  <img width="70%" height="70%" src="{{ site.url }}/assets/img/chipster-workflow.png">
+  <img width="80%" height="80%" src="{{ site.url }}/assets/img/chipster-workflow.png">
 </p>
 
 The workflow screen contains a visual representation of your entire workflow (including all output files and analysis steps). We can see how the different files and analysis results relate to one another and the different tools used. All the files can be exported to your computer, for further use. Pretty neat!
