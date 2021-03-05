@@ -30,26 +30,34 @@ The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on
 
 We can generate several useful images, such as prevalence plots that can help with data processing and tidying. That part of the tool set is based on [this excellent paper](https://f1000research.com/articles/5-1492/v2) by Callahan and co-workers. 
 
-<div class="fig figcenter fighighlight" style="width:70%;height:70%;>
+<div class="fig figcenter fighighlight">
+<div style="width:70%;height:70%;">
 <img src="{{ site.url }}/assets/img/chipster-prev.png">
+</div>
 </div>
 
 When we've tidied the data and are ready to examine some patterns, we can produce ordinations such as this one (either with or without sample labels appended to individual data points):
 
-<div class="fig figcenter fighighlight" style="width:70%;height:70%;>
+<div class="fig figcenter fighighlight">
+<div style="width:70%;height:70%;">
 <img src="{{ site.url }}/assets/img/chipster-nmds.png">
+</div>
 </div>
 
 Let's say that we'd like to analyse the data using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). Further to a table containing more detailed analysis output, we can also visualise log-fold changes:
 
-<div class="fig figcenter fighighlight" style="width:70%;height:70%;>
+<div class="fig figcenter fighighlight">
+<div style="width:70%;height:70%;">
 <img src="{{ site.url }}/assets/img/chipster-deseq2.png">
+</div>
 </div>
 
 If you've used Chipster before, you will be familiar with the workflow screen containing information on the individual steps you've taken within a particular session. In case you're new to the platform, here is a partial preview of a workflow: 
 
-<div class="fig figcenter fighighlight" style="width:70%;height:70%;>
+<div class="fig figcenter fighighlight">
+<div style="width:70%;height:70%;">
 <img src="{{ site.url }}/assets/img/chipster-workflow.png">
+</div>
 </div>
 
 The workflow screen contains a visual representation of your entire workflow (including all output files and analysis steps). We can see how the different files and analysis results relate to one another and the different tools used. All the files can be exported to your computer, for further use. Pretty neat!
