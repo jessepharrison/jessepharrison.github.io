@@ -6,7 +6,7 @@ date: 2021-03-05
 
 During 2020, one of my tasks was to develop a set of semi-automated tools for analysing microbial community data sets using [Chipster](https://chipster.csc.fi/), an open-source platform hosted by [CSC](https://www.csc.fi/en/). By enabling easy-to-use bioinformatics workflows that require no programming experience, Chipster aims to make computational approaches more accessible to researchers working in diverse fields.
 
-The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I will briefly discuss the features offered in the first iteration of this toolbox. Hope you find the new features useful! As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
+The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I will briefly discuss the features offered in the first iteration of this toolbox. Hope you find the new features useful. As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
 
 ### What's included?
 
@@ -26,7 +26,7 @@ The tools link with wider features in Chipster, including options for taxonomic 
 
 ### What does it look like?
 
-The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of the things we can do (for the purposes of this text, I'm focusing on pretty pictures!).
+The toolbox comes with an example workflow for 16S rRNA gene sequencing data, on which I also base the following snapshots showing some of the tools in action. Here's just a handful of the things we can do (for the purposes of this text, I'm focusing on pretty pictures...).
 
 We can generate several useful images, such as prevalence plots that can help with data processing and tidying. That part of the tool set is based on [this excellent paper](https://f1000research.com/articles/5-1492/v2) by Callahan and co-workers. 
 
@@ -56,7 +56,7 @@ The workflow screen contains a visual representation of your entire workflow (in
 
 ### What's next?
 
-With these tools freshly out of the oven, any feedback or suggestions are greatly appreciated! Your comments will be taken onboard while developing the next version. We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
+With these tools freshly out of the oven, any feedback or suggestions are greatly appreciated. Your comments will be taken onboard while developing the next version. We are also in the process of preparing a manuscript that will take readers through some example use cases and showcase the tool set in more detail.
 
 ### Brief glossary
 
