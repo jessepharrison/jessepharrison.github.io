@@ -6,7 +6,7 @@ date: 2021-03-05
 
 During 2020, one of my tasks was to develop a set of semi-automated tools for analysing microbial community data sets using [Chipster](https://chipster.csc.fi/), an open-source platform hosted by [CSC](https://www.csc.fi/en/). By enabling easy-to-use bioinformatics workflows that require no programming experience, Chipster aims to make computational approaches more accessible to researchers working in diverse fields.
 
-The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I will briefly discuss the features offered in the first iteration of this toolbox. Hope you find the new features useful. As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
+The new tool set for microbial community comparisons, which consists of 18 new tools, was recently made available to users. In this blog post, I briefly discuss the features offered in the first iteration of this toolbox. As there are quite a few abbreviations, you can also find a short glossary near the end of the post.
 
 ### What's included?
 
