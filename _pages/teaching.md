@@ -13,6 +13,7 @@ Courses delivered via Zoom and [CSC e-learn](e-learn.csc.fi/):
 
 [Data Analysis with R](https://github.com/csc-training/da-with-r-remote)
 
+- May 27-28 2021
 - Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
 - May 28-29 2020
@@ -23,6 +24,7 @@ Courses delivered via Zoom and [CSC e-learn](e-learn.csc.fi/):
 
 Microbial Community Analysis with Chipster
 
+- May 20-21 2021
 - Apr 21 2020
 
 ### F2F courses
