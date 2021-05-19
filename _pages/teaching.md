@@ -8,7 +8,7 @@ description: Upcoming and past courses
 I plan and teach the following courses offered by CSC:
 
 - [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course on data wrangling, plotting and statistics)
-- [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data processing and analysis)
+- [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data analysis)
 
 ### Upcoming courses
 
