@@ -11,7 +11,7 @@ description: Papers and technical reports
 
 ### Submitted
 
-- 16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication. Harrison JP, Chronopoulou M, Salonen I, Jilber T, Koho K.
+- 16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication. Harrison JP, Chronopoulou M, Salonen I, Jilbert T, Koho K.
 
 ### 2020
 
