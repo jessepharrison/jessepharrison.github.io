@@ -9,6 +9,10 @@ description: Papers and technical reports
 - Peer review record on [Publons](https://publons.com/researcher/336455/jesse-harrison/)
 - ORCID identifier: [0000-0002-4877-4684](https://orcid.org/0000-0002-4877-4684)
 
+### Submitted
+
+- 16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication. Harrison JP, Chronopoulou M, Salonen I, Jilber T, Koho K.
+
 ### 2020
 
 - [Putative degraders of low-density polyethylene-derived compounds are ubiquitous members of plastic-associated bacterial communities in the marine environment.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15232) Pinto M, Zenner PP, Langer TM, Harrison JP, Simon M, Varela MM, Herndl GJ. Environmental Microbiology 22: 4779-4793.

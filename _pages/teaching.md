@@ -5,43 +5,40 @@ title: Teaching
 description: Upcoming and past courses
 ---
 
-For CSC course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
+### Teaching responsibilities at CSC
 
-### Remote courses
+I plan and teach the following courses offered by CSC:
 
-Courses delivered via Zoom and [CSC e-learn](e-learn.csc.fi/):
+- [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course focusing on data wrangling, plotting and statistics with R)
+- [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course focusing on amplicon sequencing data pre-processing and analysis)
 
-[Data Analysis with R](https://github.com/csc-training/da-with-r-remote)
+### Upcoming courses
 
+Upcoming courses may be public or private (private course hosts indicated in brackets).
+For public course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
+
+Data Analysis with R:
+- Nov 16-18 2021 (University of Helsinki)
 - May 27-28 2021
+
+Microbial Community Analysis with Chipster:
+- May 20-21 2021
+
+### Past courses
+
+Data Analysis with R:
 - Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
+- Oct 26-28 2020 (University of Helsinki; taught as course [KLTO-132](https://courses.helsinki.fi/en/klto-132))
 - May 28-29 2020
+- Feb 04-05 2020
+- Dec 17–18 2019 (University of Helsinki; KLTO-132)
+- Sep 23 2019
+- Sep 03–04 2019 (University of Helsinki; KLTO-132)
+- Jun 18 2019
 
-[Statistics with R (KLTO-132)](https://courses.helsinki.fi/en/klto-132), University of Helsinki
-
-- Oct 26-28 2020
-
-Microbial Community Analysis with Chipster
-
-- May 20-21 2021
+Microbial Community Analysis with Chipster:
 - Apr 21 2020
-
-### F2F courses
-
-Data Analysis with R
-
-- Feb 04-05 2020 (CSC)
-- Sep 23 2019 (CSC)
-- Jun 17 2019 (CSC)
-
-Statistics with R (KLTO-132), University of Helsinki
-
-- Dec 17–18 2019
-- Sep 03–04 2019
-
-Microbial Community Analysis with Chipster
-
 - Jan 10 2020 (Finnish Food Authority)
 
 ### Other teaching
@@ -54,6 +51,5 @@ Microbial Community Analysis with Chipster
 
 - Sep 2020: Mastery Rubric for Bioinformatics ([GOBLET](https://mygoblet.org/) workshop)
 - Aug 2019: [Data Carpentry Instructor](https://carpentries.org/)
-- 2019 - present: Training the Trainer (CSC internal training)
-
+- 2019 - present: Training the Trainer (CSC internal training scheme)
 
