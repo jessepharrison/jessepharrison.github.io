@@ -17,14 +17,11 @@ For public course registrations, [visit the CSC Customer Training website](https
 
 Data Analysis with R:
 - Nov 16-18 2021 (University of Helsinki)
-- May 27-28 2021
-
-Microbial Community Analysis with Chipster:
-- May 20-21 2021
 
 ### Past courses
 
 Data Analysis with R:
+- May 27-28 2021
 - Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
 - Oct 26-28 2020 (University of Helsinki; taught as course [KLTO-132](https://courses.helsinki.fi/en/klto-132))
@@ -36,6 +33,7 @@ Data Analysis with R:
 - Jun 18 2019
 
 Microbial Community Analysis with Chipster:
+- May 20-21 2021
 - Apr 21 2020
 - Jan 10 2020 (Finnish Food Authority)
 
