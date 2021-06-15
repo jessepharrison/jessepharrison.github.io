@@ -9,9 +9,9 @@ description: Papers and technical reports
 - Peer review record on [Publons](https://publons.com/researcher/336455/jesse-harrison/)
 - ORCID identifier: [0000-0002-4877-4684](https://orcid.org/0000-0002-4877-4684)
 
-### Submitted
+### 2021
 
-- 16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication. Harrison JP, Chronopoulou M, Salonen I, Jilbert T, Koho K.
+- 16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication. Harrison JP, Chronopoulou M, Salonen I, Jilbert T, Koho K. Frontiers in Marine Science (In Press). DOI:10.3389/fmars.2021.708716
 
 ### 2020
 
