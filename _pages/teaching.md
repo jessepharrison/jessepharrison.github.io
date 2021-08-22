@@ -18,7 +18,7 @@ Upcoming courses may be public or private (private course hosts indicated in bra
 For public course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
 
 Data Analysis with R:
-- Dec 13-15 2021 (Univeristy of Helsinki; KLTO-132)
+- Dec 13-15 2021 (University of Helsinki; KLTO-132)
 - Nov 16-18 2021 (University of Helsinki)
 
 ### Past courses
