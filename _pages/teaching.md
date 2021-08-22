@@ -10,12 +10,15 @@ I plan and teach the following courses offered by CSC:
 - [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course on data wrangling, plotting and statistics)
 - [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data analysis)
 
+Data Analysis with R is also taught as the University of Helsinki course [KLTO-132](https://courses.helsinki.fi/en/klto-132).
+
 ### Upcoming courses
 
 Upcoming courses may be public or private (private course hosts indicated in brackets).
 For public course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
 
 Data Analysis with R:
+- Dec 13-15 2021 (Univeristy of Helsinki; KLTO-132)
 - Nov 16-18 2021 (University of Helsinki)
 
 ### Past courses
@@ -24,7 +27,7 @@ Data Analysis with R:
 - May 27-28 2021
 - Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
-- Oct 26-28 2020 (University of Helsinki; taught as course [KLTO-132](https://courses.helsinki.fi/en/klto-132))
+- Oct 26-28 2020 (University of Helsinki; KLTO-132)
 - May 28-29 2020
 - Feb 04-05 2020
 - Dec 17–18 2019 (University of Helsinki; KLTO-132)
