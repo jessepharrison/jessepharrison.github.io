@@ -19,7 +19,7 @@ For public course registrations, [visit the CSC Customer Training website](https
 
 Data Analysis with R:
 - Dec 13-15 2021 (University of Helsinki; KLTO-132)
-- Nov 16-18 2021 (University of Helsinki)
+- Nov 10-12 2021 (University of Helsinki)
 
 ### Past courses
 
@@ -42,6 +42,7 @@ Microbial Community Analysis with Chipster:
 
 ### Other teaching
 
+- Nov 22-23 2021: CSC Puhti + R/RStudio Workshop (University of Turku)
 - 2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
 - 2016: Practical Instructor ([International FISH Course](http://www.microbial-ecology.net/international-fish-course), University of Vienna) 
 - 2012–2013: MOOC Teaching Assistant ([Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology), University of Edinburgh)
