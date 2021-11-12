@@ -9,7 +9,7 @@ I plan and teach the following courses offered by CSC:
 
 - [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course on data wrangling, plotting and statistics)
 - [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data analysis)
-- [Puhti R/RStudio Workshop](https://github.com/csc-training/puhti-r-workshop) (introductory course on accessing and using R/RStudio on the [Puhti supercluster](https://docs.csc.fi/computing/overview/))
+- [Puhti R/RStudio Workshop](https://github.com/csc-training/puhti-r-workshop) (introductory course on using R/RStudio on the [Puhti supercluster](https://docs.csc.fi/computing/overview/))
 
 Data Analysis with R is also taught as the University of Helsinki course [KLTO-132](https://courses.helsinki.fi/en/klto-132).
 
