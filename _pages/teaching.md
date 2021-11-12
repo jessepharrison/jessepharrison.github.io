@@ -9,6 +9,7 @@ I plan and teach the following courses offered by CSC:
 
 - [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course on data wrangling, plotting and statistics)
 - [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data analysis)
+- [Puhti R/RStudio Workshop](https://github.com/csc-training/puhti-r-workshop) (introductory course on accessing and using R/RStudio on the [Puhti supercluster](https://docs.csc.fi/computing/overview/))
 
 Data Analysis with R is also taught as the University of Helsinki course [KLTO-132](https://courses.helsinki.fi/en/klto-132).
 
@@ -19,11 +20,14 @@ For public course registrations, [visit the CSC Customer Training website](https
 
 Data Analysis with R:
 - Dec 13-15 2021 (University of Helsinki; KLTO-132)
-- Nov 10-12 2021 (University of Helsinki)
+
+CSC Puhti R/RStudio Workshop:
+- Nov 22-23 2021 (University of Turku)
 
 ### Past courses
 
 Data Analysis with R:
+- Nov 10-12 2021 (University of Helsinki)
 - May 27-28 2021
 - Jan 14-15 2021
 - Nov 16-18 2020 (University of Helsinki)
@@ -42,7 +46,6 @@ Microbial Community Analysis with Chipster:
 
 ### Other teaching
 
-- Nov 22-23 2021: CSC Puhti + R/RStudio Workshop (University of Turku)
 - 2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
 - 2016: Practical Instructor ([International FISH Course](http://www.microbial-ecology.net/international-fish-course), University of Vienna) 
 - 2012–2013: MOOC Teaching Assistant ([Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology), University of Edinburgh)
