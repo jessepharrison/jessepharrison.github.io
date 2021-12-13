@@ -17,9 +17,9 @@ news: true
 social: true
 ---
 
-At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, bioinformatics software development, and research and data analysis support. I also develop and teach courses on R programming and bioinformatics. Current research collaborations include the H2020 PerMedCoE and LIFEPLAN projects.
+At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, bioinformatics software tool development, and research and data analysis support. I also develop and teach courses on R programming and bioinformatics. Current research collaborations include the H2020 PerMedCoE and LIFEPLAN projects.
 
-**Brief CV**
+**Brief CV:**
 
 - 2019-present: Data Scientist, [CSC - IT Center for Science](https://www.csc.fi/en/home), Artificial Intelligence and Data Analytics (AIDA) team
 - 2018-2019: Postdoc, Turku Bioscience, [Medical Bioinformatics Centre](https://elolab.utu.fi/)
