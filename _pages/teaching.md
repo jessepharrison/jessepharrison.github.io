@@ -18,15 +18,12 @@ Data Analysis with R is also taught as the University of Helsinki course [KLTO-1
 Upcoming courses may be public or private (private course hosts indicated in brackets).
 For public course registrations, [visit the CSC Customer Training website](https://www.csc.fi/en/training).
 
-Data Analysis with R:
-- Dec 13-15 2021 (University of Helsinki; KLTO-132)
-
-CSC Puhti R/RStudio Workshop:
-- Nov 22-23 2021 (University of Turku)
+2022 courses TBA
 
 ### Past courses
 
 Data Analysis with R:
+- Dec 13-15 2021 (University of Helsinki; KLTO-132)
 - Nov 10-12 2021 (University of Helsinki)
 - May 27-28 2021
 - Jan 14-15 2021
@@ -38,6 +35,9 @@ Data Analysis with R:
 - Sep 23 2019
 - Sep 03–04 2019 (University of Helsinki; KLTO-132)
 - Jun 18 2019
+
+CSC Puhti R/RStudio Workshop:
+- Nov 22-23 2021 (University of Turku)
 
 Microbial Community Analysis with Chipster:
 - May 20-21 2021

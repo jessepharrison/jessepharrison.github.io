@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, bioinformatics software development, and research and data analysis support. I also develop and teach courses on R programming and bioinformatics. Between 2012 and 2019 I held several postdoc positions focusing on microbial ecology, astrobiology and environmental chemistry.
+At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster, bioinformatics software development, and research and data analysis support. I also develop and teach courses on R programming and bioinformatics. Current research collaborations include the H2020 PerMedCoE and LIFEPLAN projects.
 
 **Brief CV**
 
@@ -28,5 +28,3 @@ At CSC, my tasks involve maintaining the R environment on the Puhti HPC cluster,
 - 2014-2015: Technical Advisory Group member, [Department for Environment, Food & Rural Affairs](http://www.defra.gov.uk/)
 - 2012-2015: Postdoc, The University of Edinburgh, [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/)
 - 2008-2012: PhD student, The University of Sheffield, [Department of Animal and Plant Sciences](https://www.sheffield.ac.uk/aps)
-
-A full copy of my CV [can be found here.](Harrison_CV.pdf)
