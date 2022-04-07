@@ -22,7 +22,7 @@ At CSC, my tasks involve leading the H2020 BioDT project and serving as a Work P
 **Brief CV:**
 
 - 2022-present: Senior Data Scientist / Project Manager, [CSC - IT Center for Science](https://www.csc.fi/en/home), Artificial Intelligence and Data Analytics (AIDA) group
-- 2019-2022: Data Scientist, [CSC - IT Center for Science](https://www.csc.fi/en/home), AIDA Group
+- 2019-2022: Data Scientist, CSC - IT Center for Science, AIDA Group
 - 2018-2019: Postdoc, Turku Bioscience, [Medical Bioinformatics Centre](https://elolab.utu.fi/)
 - 2017-2018: Postdoc, University of Helsinki, [Aquatic Biogeochemistry Research Unit](https://www.helsinki.fi/en/researchgroups/aquatic-biogeochemistry)
 - 2015-2017: Postdoc, University of Vienna, [Division of Microbial Ecology](http://www.microbial-ecology.net/)
