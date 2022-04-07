@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Jesse P. Harrison, PhD
-description: Senior Data Scientist / Project Manager at CSC - IT Center for Science Ltd (Espoo, Finland)
+description: Senior Data Scientist / Project Manager at CSC - IT Center for Science Ltd
 
 profile:
   align: right
