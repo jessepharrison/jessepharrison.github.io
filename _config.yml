@@ -17,30 +17,6 @@ linkedin_username: jesse-harrison-68a936138
 scholar_authorid: ZqkvSqsAAAAJ
 
 # -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-blog_name: Jesse Harrison's Blog
-blog_description: R, data science, statistics
-
-# Pagination
-#paginate: 4
-permalink: /blog/:year/:title/
-#paginate_path: /blog/page:num/
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-
-# Comments
-# disqus_shortname:
-
-# Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
-
-# -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 collections:
