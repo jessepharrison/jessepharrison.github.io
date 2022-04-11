@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-At CSC, my tasks involve leading the Horizon Europe BioDT project and serving as a Work Package lead for [H2020 PerMedCoE](https://permedcoe.eu/). My other responsibilities have included R environment maintenance and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and and bioinformatics.
+At CSC, my tasks involve leading the Horizon Europe BioDT project and serving as a Work Package lead for [H2020 PerMedCoE](https://permedcoe.eu/). My other responsibilities have included R environment maintenance and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.
 
 **Brief CV:**
 
