@@ -9,6 +9,10 @@ description: Papers and technical reports
 - Peer review record on [Publons](https://publons.com/researcher/336455/jesse-harrison/)
 - ORCID identifier: [0000-0002-4877-4684](https://orcid.org/0000-0002-4877-4684)
 
+### 2022
+
+- [Year-long microbial succession on microplastics in wastewater: chaotic dynamics outweigh preferential growth](https://www.mdpi.com/2076-2607/10/9/1775). Tagg AS, Sperlea T, Labrenz M, Harrison JP, Ojeda JJ, Sapp M. Microorganisms 10:1775.
+
 ### 2021
 
 - [16S and 18S rRNA gene metabarcoding provide congruent information on the responses of sediment communities to eutrophication](https://www.frontiersin.org/articles/10.3389/fmars.2021.708716/abstract). Harrison JP, Chronopoulou M, Salonen I, Jilbert T, Koho K. Frontiers in Marine Science 8:708716.
