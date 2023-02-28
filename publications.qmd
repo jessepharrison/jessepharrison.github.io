@@ -49,13 +49,13 @@ title: "Publications"
 
 5\. [Reduction of the temperature sensitivity of *Halomonas hydrothermalis* by iron starvation combined with microaerobic conditions](http://aem.asm.org/content/81/6/2156.full). 2015. **Harrison JP**, Hallsworth JE, Cockell CS. *Applied and Environmental Microbiology* 81: 2156--2162.
 
-4\. [Rapid bacterial colonization of low-density polyethylene microplastics in coastal sediment microcosms](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-014-0232-4). 2014. **Harrison JP**, Schratzberger M, Sapp M, Osborn AM. BMC Microbiology 14: 232.
+4\. [Rapid bacterial colonization of low-density polyethylene microplastics in coastal sediment microcosms](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-014-0232-4). 2014. **Harrison JP**, Schratzberger M, Sapp M, Osborn AM. *BMC Microbiology* 14: 232.
 
-3\. [The limits for life under multiple extremes](http://www.sciencedirect.com/science/article/pii/S0966842X13000206). 2013. **Harrison JP**, Gheeraert N, Tsigelnitskiy D, Cockell CS. Trends in Microbiology 21: 204--212.
+3\. [The limits for life under multiple extremes](http://www.sciencedirect.com/science/article/pii/S0966842X13000206). 2013. **Harrison JP**, Gheeraert N, Tsigelnitskiy D, Cockell CS. *Trends in Microbiology* 21: 204--212.
 
-2\. [The applicability of reflectance micro-Fourier-transform infrared spectroscopy for the detection of synthetic microplastics in marine sediments](http://www.sciencedirect.com/science/article/pii/S0048969711013969). 2012. **Harrison JP**, Ojeda JJ, Romero-González ME. Science of the Total Environment 416: 455--463.
+2\. [The applicability of reflectance micro-Fourier-transform infrared spectroscopy for the detection of synthetic microplastics in marine sediments](http://www.sciencedirect.com/science/article/pii/S0048969711013969). 2012. **Harrison JP**, Ojeda JJ, Romero-González ME. *Science of the Total Environment* 416: 455--463.
 
-1\. [Interactions between microorganisms and marine microplastics: a call for research](http://www.ingentaconnect.com/content/mts/mtsj/2011/00000045/00000002/art00003). 2011. **Harrison JP**, Sapp M, Schratzberger M, Osborn AM. Marine Technology Society Journal 45: 12--20 *Invited paper.*
+1\. [Interactions between microorganisms and marine microplastics: a call for research](http://www.ingentaconnect.com/content/mts/mtsj/2011/00000045/00000002/art00003). 2011. **Harrison JP**, Sapp M, Schratzberger M, Osborn AM. *Marine Technology Society Journal* 45: 12--20 *Invited paper.*
 
 </small>
 
@@ -73,8 +73,8 @@ title: "Publications"
 
 <small>
 
-- [BioDT D1.2 - Data Management Plan](https://doi.org/10.5281/zenodo.7621030). 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
-- [BioDT: a digital twin for advanced simulation, modelling and simulation capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
+-   [BioDT D1.2 - Data Management Plan](https://doi.org/10.5281/zenodo.7621030). 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
+-   [BioDT: a digital twin for advanced simulation, modelling and simulation capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
 
 </small>
 
