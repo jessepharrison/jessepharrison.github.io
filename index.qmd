@@ -1,0 +1,38 @@
+---
+project:
+  type: website
+  output-dir: docs
+
+title: "Jesse Harrison"
+description: "Senior Data Scientist / Project Manager (CSC - IT Center for Science Ltd)"
+image: static/prof_pic.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jessepharrison/
+    - text: GitHub
+      href: https://github.com/jessepharrison
+    - text: Twitter
+      href: https://twitter.com/jessepharrison
+    - text: Email
+      href: mailto:jesse.harrison@csc.fi    
+---
+
+#### **About**
+
+I work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the [Horizon Europe BioDT project](https://biodt.eu/) and serving as a Work Package lead for [H2020 PerMedCoE](https://permedcoe.eu/). 
+
+My previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.
+
+Prior to joining CSC, I worked as a postdoctoral researcher at the Universities of Edinburgh, Vienna, Helsinki and Turku.
+
+---
+
+#### **Further details**
+
+[See my resume](static/harrison_cv_feb23.pdf) for more information.
+
+---

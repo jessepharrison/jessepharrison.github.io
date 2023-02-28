@@ -1,0 +1,21 @@
+---
+title: "Teaching and Supervision"
+---
+
+I was certified as a [Data Carpentry Instructor](https://carpentries.org/) in 2019.
+
+## R and bioinformatics courses
+
+Courses I have developed and taught at [CSC - IT Center for Science Ltd](https://www.csc.fi/en/) include: 
+
+- [Data Analysis with R](https://github.com/csc-training/da-with-r-remote) (introductory course on data wrangling, plotting and statistics)
+- [Microbial Community Analysis with Chipster](https://github.com/csc-training/chipster-microbial) (intermediate course on amplicon data analysis)
+- [Puhti R/RStudio Workshop](https://github.com/csc-training/puhti-r-workshop) (introductory course on using R on the [Puhti supercomputer](https://docs.csc.fi/computing/overview/))
+
+I have also taught R courses at the [University of Helsinki](https://www.helsinki.fi/en) (KLTO-132 Statistics with R).
+
+## Further courses and project supervision
+
+- **2013–2017:** Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
+- **2016:** Practical Instructor ([International FISH Course](http://www.microbial-ecology.net/international-fish-course), University of Vienna) 
+- **2012–2013:** MOOC Teaching Assistant ([Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology), University of Edinburgh)

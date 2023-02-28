@@ -1,0 +1,27 @@
+---
+title: 'PerMedCoE ELIXIR feature'
+author: Jesse Harrison
+date: '2022-08-25'
+slug: permedcoe-elixir-feature
+categories:
+    - PerMedCoE
+    - News
+description: 'Feature on PerMedCoE published on ELIXIR Finland website'
+draft: false
+---
+
+<img src="preview.jpg" width="60%" height="60%"/>
+
+<small>
+
+*PerMedCoE combines clinical patient data with data related to the operation of genes, proteins and cells. The goal is to develop easy-to-use tools that can be used in precision medicine, leveraging the power of modern supercomputers.*
+
+</small>
+
+------------------------------------------------------------------------
+
+Recently a feature on the Horizon 2020 [PerMedCoE project](https://permedcoe.eu/), titled [Personalised medicine against cancer and viruses](https://www.elixir-finland.org/en/personalised-medicine-against-cancer-and-viruses/), was published on the ELIXIR Finland website.
+
+The text features commentaries from [CSC - IT Center for Science](https://www.csc.fi/en/) (Project Manager Sampo Sillanpää and myself), as well as the [Institute for Molecular Medicine Finland](https://www.helsinki.fi/en/hilife-helsinki-institute-life-science/units/fimm) (Group Leader Esa Pitkänen).
+
+------------------------------------------------------------------------

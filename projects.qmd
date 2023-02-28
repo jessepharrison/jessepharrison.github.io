@@ -1,0 +1,111 @@
+---
+title: "Research and technical projects"
+---
+
+This page offers short descriptions of projects I am currently involved in or have previously worked on.
+
+## Current research projects
+
+### BioDT
+
+[**Biodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities**](https://biodt.eu/)
+
+-   **Funding:** Horizon Europe (€11M)
+-   **Period:** 2022 - 2025
+-   **Coordinator:** [CSC - IT Center for Science Ltd](https://www.csc.fi/en/)
+
+#### Description
+
+BioDT seeks to develop prototype digital twins to push the current boundaries of our understanding of biodiversity dynamics, leveraging the [LUMI supercomputer](https://www.lumi-supercomputer.eu/).
+
+#### Tasks
+
+-   Project Manager / PI
+-   Work Package member (simulation, modelling and data analytics)
+
+------------------------------------------------------------------------
+
+### PerMedCoE
+
+[**HPC / Exascale Centre of Excellence in Personalised Medicine**](https://permedcoe.eu/)
+
+-   **Funding:** Horizon Europe (€5M)
+-   **Period:** 2020 - 2023
+-   **Coordinator:** [Barcelona Supercomputing Center](https://www.bsc.es/)
+
+#### Description
+
+PerMedCoE seeks to improve the usability and compatibility of key personalised medicine modelling tools with next-generation exascale supercomputing systems.
+
+#### Tasks
+
+-   Work Package Lead (analytical workflows)
+-   Organising Committee Member ([2023 PerMedCoE Summer School](https://permedcoe.eu/training/permedcoe-summer-school-on-cell-level-simulations/))
+
+------------------------------------------------------------------------
+
+### LIFEPLAN
+
+[**A Planetary Inventory of Life**](https://cordis.europa.eu/project/id/856506)
+
+-   **Funding:** ERC (€12M)
+-   **Period:** 2020 - 2026
+-   **Coordinator:** [University of Jyväskylä](https://www.jyu.fi/en)
+
+#### Description
+
+LIFEPLAN aims to establish the current state of biodiversity across the globe and to use the insights for generating accurate predictions of its future state under future scenarios.
+
+#### Tasks
+
+-   Collaborator (upscaling of data analysis tools for high-performance computing)
+
+------------------------------------------------------------------------
+
+## Past research projects
+
+### Postdoctoral projects
+
+Topics I have worked on as part of postdoctoral positions (2012-2019) include:
+
+-   Planetary limits for life and the habitability of multi-extreme environments (funding: [STFC](https://www.ukri.org/councils/stfc/))
+-   Bioinformatics as part of [NASA BASALT (Biologic Analog Science Associated with Lava Terrains)](https://www.nasa.gov/content/about-basalt/)
+-   Metabarcoding as a tool for monitoring ecosystem health (funding: [Academy of Finland](https://www.aka.fi/en/))
+
+------------------------------------------------------------------------
+
+## Environment maintenance & design
+
+### r-env
+
+**R / RStudio container on [Puhti supercomputer](https://docs.csc.fi/computing/systems-puhti/)**
+
+#### Description
+
+r-env is an [Apptainer container](https://apptainer.org/) including R, RStudio Server and TensorFlow. Many of the 1300+ R packages included offer support for parallel computing (including MPI jobs) and geospatial analyses.
+
+#### Tasks
+
+2019-2022:
+
+-   Design, implementation and maintenance on Puhti (Finnish national supercomputing cluster)
+-   Research support (500+ users) and maintaining [technical user documentation](https://docs.csc.fi/apps/r-env/)
+-   R environment design for the [CSC Sensitive Data Desktop](https://docs.csc.fi/data/sensitive-data/)
+
+------------------------------------------------------------------------
+
+### Chipster microbiome analysis
+
+**Semi-automated tools for microbial community metabarcoding analysis**
+
+#### Description
+
+Chipster is a [user-friendly analysis software](https://chipster.rahtiapp.fi/home) for next-generation sequencing data, such as scRNA-seq, RNA-seq, ChIP-seq and microbial community metabarcoding data.
+
+#### Tasks
+
+2019-2021:
+
+-   Developed [a semi-automated toolbox](https://chipster.rahtiapp.fi/manual/tools-ngs.html#microanalysis) for OTU-based microbial community comparisons
+
+------------------------------------------------------------------------
