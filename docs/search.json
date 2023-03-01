@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jesse Harrison",
+    "section": "",
+    "text": "About\nI work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the Horizon Europe BioDT project and serving as a Work Package lead for H2020 PerMedCoE.\nMy previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.\nPrior to joining CSC, I worked as a postdoctoral researcher at the Universities of Edinburgh, Vienna, Helsinki and Turku.\n\n\n\nFurther details\nSee my resume for more information."
+  },
+  {
     "objectID": "posts/permedcoe-elixir-article/index.html",
     "href": "posts/permedcoe-elixir-article/index.html",
     "title": "PerMedCoE ELIXIR feature",
@@ -42,13 +49,6 @@
     "text": "Projects"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jesse Harrison",
-    "section": "",
-    "text": "About\nI work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the Horizon Europe BioDT project and serving as a Work Package lead for H2020 PerMedCoE.\nMy previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.\nPrior to joining CSC, I worked as a postdoctoral researcher at the Universities of Edinburgh, Vienna, Helsinki and Turku.\n\n\n\nFurther details\nSee my resume for more information."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -74,7 +74,7 @@
     "href": "publications.html#materials-in-repositories",
     "title": "Publications",
     "section": "Materials in repositories",
-    "text": "Materials in repositories\n\n\nBioDT D1.2 - Data Management Plan. 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.\nBioDT: a digital twin for advanced simulation, modelling and simulation capabilities. 2022. Harrison JP. Presentation slides on Zenodo."
+    "text": "Materials in repositories\n\n\nBioDT D1.2 - Data Management Plan. 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.\nBioDT: a digital twin for advanced simulation, modelling and prediction capabilities. 2022. Harrison JP. Presentation slides on Zenodo."
   },
   {
     "objectID": "publications.html#phd-thesis",

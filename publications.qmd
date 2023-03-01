@@ -74,7 +74,7 @@ title: "Publications"
 <small>
 
 -   [BioDT D1.2 - Data Management Plan](https://doi.org/10.5281/zenodo.7621030). 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
--   [BioDT: a digital twin for advanced simulation, modelling and simulation capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
+-   [BioDT: a digital twin for advanced simulation, modelling and prediction capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
 
 </small>
 
