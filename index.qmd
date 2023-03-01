@@ -33,8 +33,7 @@ Prior to joining CSC, I worked as a postdoctoral researcher at the Universities 
 
 #### **Further details**
 
-[See my resume](static/harrison_cv_feb23.pdf) for more information.
-
-I also have a [website for art](https://www.jesse-harrison.com/).
+- [See my resume](static/harrison_cv_feb23.pdf) for more information.
+- I also have a [website for art](https://www.jesse-harrison.com/).
 
 ------------------------------------------------------------------------
