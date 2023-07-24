@@ -23,7 +23,9 @@ about:
 
 #### **About**
 
-I work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the [Horizon Europe BioDT project](https://biodt.eu/) and serving as a Work Package lead for [H2020 PerMedCoE](https://permedcoe.eu/).
+I work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the [Horizon Europe BioDT project](https://biodt.eu/) and serving as a Work Package lead for [H2020 PerMedCoE](https://permedcoe.eu/). 
+
+I also hold the title of Docent (Associate Professor) in Environmental Sciences at the [University of Helsinki](https://www.helsinki.fi/en/faculty-biological-and-environmental-sciences).
 
 My previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.
 
@@ -33,7 +35,7 @@ Prior to joining CSC, I worked as a postdoctoral researcher at the Universities 
 
 #### **Further details**
 
-- [See my resume](static/harrison_cv_feb23.pdf) for more information.
-- I also have a [website for art](https://www.jesse-harrison.com/).
+-   [See my resume](static/harrison_cv_jul23.pdf) for more information.
+-   I also have a [website for art](https://www.jesse-harrison.com/).
 
 ------------------------------------------------------------------------

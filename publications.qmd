@@ -59,22 +59,33 @@ title: "Publications"
 
 </small>
 
-## Book chapters and technical reports
+## Book chapters, technical reports and policy documents
 
 <small>
 
-2\. [Microplastic-associated biofilms: a comparison of freshwater and marine environments](https://link.springer.com/chapter/10.1007/978-3-319-61615-5_9). 2018. **Harrison JP**, Hoellein TJ, Sapp M, Tagg AS, Ju-Nam Y, Ojeda JJ. In: *Freshwater Microplastics* (Wagner M, Lambert S, eds). *The Handbook of Environmental Chemistry* 58, pp. 181--201. Springer. *Invited chapter.*
+3\. [Open research data and methods. National policy and executive plan by the higher education and research community for 2021–2025: Policy component 2 - open access to research methods and infrastructures](https://edition.fi/tsv/catalog/book/669). 2023. Open Science Coordination in Finland / The Committee for Public Information (TJNK) and Federation of Finnish Learned Societies (TSV). *National policy document providing recommendations for the openness of research  methods  and infrastructures.*
+
+2\. [Microplastic-associated biofilms: a comparison of freshwater and marine environments](https://link.springer.com/chapter/10.1007/978-3-319-61615-5_9). 2018. **Harrison JP**, Hoellein TJ, Sapp M, Tagg AS, Ju-Nam Y, Ojeda JJ. In: *Freshwater Microplastics* (Wagner M, Lambert S, eds). *The Handbook of Environmental Chemistry* 58, pp. 181--201. Springer. *Invited book chapter.*
 
 1\. [Review of standards for biodegradable plastic carrier bags](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/485904/carrier-bag-biodegradable-report-2015.pdf). 2015. Department for Environment, Food and Rural Affairs. *Summary report to UK Parliament based on Technical Advisory Group output.*
 
 </small>
 
-## Materials in repositories
+## Project deliverables
 
 <small>
 
--   [BioDT D1.2 - Data Management Plan](https://doi.org/10.5281/zenodo.7621030). 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
--   [BioDT: a digital twin for advanced simulation, modelling and prediction capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
+3.\ [BioDT D1.2 - Data management plan](https://doi.org/10.5281/zenodo.7621030). 2022. **Harrison JP**, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
+
+2.\ [PerMedCoE D1.2 - Software best practices and optimisation interim report](https://permedcoe.eu/wp-content/uploads/2023/04/D1.2_Software-best-practices-and-optimisation-interim-report_V1.0_20220331.pdf). 2022. **Harrison JP**, Montagud A, Noël V, Rodríguez-Mier P, Kratochvil M.
+
+1.\ [PerMedCoE D2.2 - Midterm code release](https://permedcoe.eu/wp-content/uploads/2023/03/D2.2_Mid-Term-Code-Release_v1.0_20220330.pdf). 2022. **Harrison JP**, Conejero C, Gorroñogoitia J, Rodríguez-Mier P.
+
+## Selected presentations and posters
+
+- [Biodiversity Digital Twin: general project vision](https://zenodo.org/record/8075657). 2023. Harrison JP. *Poster on Zenodo.*
+
+- [BioDT: a digital twin for advanced simulation, modelling and prediction capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
 
 </small>
 
