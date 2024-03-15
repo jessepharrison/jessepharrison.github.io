@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jesse Harrison",
     "section": "",
-    "text": "About\nI work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science, where my current tasks involve leading the Horizon Europe BioDT project and serving as a Work Package lead for H2020 PerMedCoE.\nI also hold the title of Docent (Associate Professor) in Environmental Sciences at the University of Helsinki.\nMy previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.\nPrior to joining CSC, I worked as a postdoctoral researcher at the Universities of Edinburgh, Vienna, Helsinki and Turku.\n\n\n\nFurther details\n\nSee my resume for more information.\nI also have a website for art."
+    "text": "About\nI work as a Development Manager at CSC - IT Center for Science, where my current tasks involve leading the AI & Data Analytics (AIDA) group. I have also worked as the Scientific Coordinator of the Horizon Europe BioDT project and as a Work Package lead for H2020 PerMedCoE.\nI hold the title of Docent (Associate Professor) in Environmental Sciences at the University of Helsinki.\nMy previous responsibilities have included R environment design and support on CSC computing platforms, bioinformatics software tool development, and teaching courses on R and bioinformatics.\nPrior to joining CSC, I worked as a postdoctoral researcher at the Universities of Edinburgh, Vienna, Helsinki and Turku.\n\n\n\nFurther details\n\nSee my resume for more information.\nI also have a website for art."
   },
   {
     "objectID": "posts/permedcoe-elixir-article/index.html",
@@ -95,14 +95,14 @@
     "href": "projects.html#current-research-projects",
     "title": "Research and technical projects",
     "section": "Current research projects",
-    "text": "Current research projects\n\nBioDT\nBiodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities\n\nFunding: Horizon Europe (€11M)\nPeriod: 2022 - 2025\nCoordinator: CSC - IT Center for Science Ltd\n\n\nDescription\nBioDT seeks to develop prototype digital twins to push the current boundaries of our understanding of biodiversity dynamics, leveraging the LUMI supercomputer.\n\n\nTasks\n\nProject Manager / PI\nWork Package member (simulation, modelling and data analytics)\n\n\n\n\n\nPerMedCoE\nHPC / Exascale Centre of Excellence in Personalised Medicine\n\nFunding: Horizon Europe (€5M)\nPeriod: 2020 - 2023\nCoordinator: Barcelona Supercomputing Center\n\n\nDescription\nPerMedCoE seeks to improve the usability and compatibility of key personalised medicine modelling tools with next-generation exascale supercomputing systems.\n\n\nTasks\n\nWork Package Lead (analytical workflows)\nOrganising Committee Member (2023 PerMedCoE Summer School)\n\n\n\n\n\nLIFEPLAN\nA Planetary Inventory of Life\n\nFunding: ERC (€12M)\nPeriod: 2020 - 2026\nCoordinator: University of Jyväskylä\n\n\nDescription\nLIFEPLAN aims to establish the current state of biodiversity across the globe and to use the insights for generating accurate predictions of its future state under future scenarios.\n\n\nTasks\n\nCollaborator (upscaling of data analysis tools for high-performance computing)"
+    "text": "Current research projects\n\nBioDT\nBiodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities\n\nFunding: Horizon Europe (€11M)\nPeriod: 2022 - 2025\nCoordinator: CSC - IT Center for Science Ltd\n\n\nDescription\nBioDT seeks to develop prototype digital twins to push the current boundaries of our understanding of biodiversity dynamics, leveraging the LUMI supercomputer.\n\n\nTasks\n\nScientific Coordinator / PI\nWork Package member (simulation, modelling and data analytics)"
   },
   {
     "objectID": "projects.html#past-research-projects",
     "href": "projects.html#past-research-projects",
     "title": "Research and technical projects",
     "section": "Past research projects",
-    "text": "Past research projects\n\nPostdoctoral projects\nTopics I have worked on as part of postdoctoral positions (2012-2019) include:\n\nPlanetary limits for life and the habitability of multi-extreme environments (funding: STFC)\nBioinformatics as part of NASA BASALT (Biologic Analog Science Associated with Lava Terrains)\nMetabarcoding as a tool for monitoring ecosystem health (funding: Academy of Finland)"
+    "text": "Past research projects\n\nPerMedCoE\nHPC / Exascale Centre of Excellence in Personalised Medicine\n\nFunding: Horizon Europe (€5M)\nPeriod: 2020 - 2023\nCoordinator: Barcelona Supercomputing Center\n\n\nDescription\nPerMedCoE seeks to improve the usability and compatibility of key personalised medicine modelling tools with next-generation exascale supercomputing systems.\n\n\nTasks\n\nWork Package Lead (analytical workflows)\nOrganising Committee Member (2023 PerMedCoE Summer School)\n\n\n\n\n\nPostdoctoral projects\nTopics I have worked on as part of postdoctoral positions (2012-2019) include:\n\nPlanetary limits for life and the habitability of multi-extreme environments (funding: STFC)\nBioinformatics as part of NASA BASALT (Biologic Analog Science Associated with Lava Terrains)\nMetabarcoding as a tool for monitoring ecosystem health (funding: Academy of Finland)"
   },
   {
     "objectID": "projects.html#environment-maintenance-design",
@@ -123,7 +123,7 @@
     "href": "publications.html#project-deliverables",
     "title": "Publications",
     "section": "Project deliverables",
-    "text": "Project deliverables\n\n3. BioDT D1.2 - Data management plan. 2022. Harrison JP, Allas A-L, Koivula H, Blankett R. This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.\n2. PerMedCoE D1.2 - Software best practices and optimisation interim report. 2022. Harrison JP, Montagud A, Noël V, Rodríguez-Mier P, Kratochvil M.\n1. PerMedCoE D2.2 - Midterm code release. 2022. Harrison JP, Conejero C, Gorroñogoitia J, Rodríguez-Mier P."
+    "text": "Project deliverables\n\n3. BioDT D1.2 - Data management plan. 2022. Harrison JP, Allas A-L, Koivula H, Blankett R.\n2. PerMedCoE D1.2 - Software best practices and optimisation interim report. 2022. Harrison JP, Montagud A, Noël V, Rodríguez-Mier P, Kratochvil M.\n1. PerMedCoE D2.2 - Midterm code release. 2022. Harrison JP, Conejero C, Gorroñogoitia J, Rodríguez-Mier P."
   },
   {
     "objectID": "publications.html#presentations-and-posters-in-public-repositories",
@@ -138,5 +138,12 @@
     "title": "Publications",
     "section": "Selected presentations and posters",
     "text": "Selected presentations and posters\n\nBiodiversity Digital Twin: general project vision. 2023. Harrison JP. Poster on Zenodo.\nBioDT: a digital twin for advanced simulation, modelling and prediction capabilities. 2022. Harrison JP. Presentation slides on Zenodo."
+  },
+  {
+    "objectID": "publications.html#selected-presentations-interviews-and-posters",
+    "href": "publications.html#selected-presentations-interviews-and-posters",
+    "title": "Publications",
+    "section": "Selected presentations, interviews and posters",
+    "text": "Selected presentations, interviews and posters\n\nBioDT Podcast Episode 1. 2024. Interview on project from scientific coordination perspective.\nBiodiversity Digital Twin: general project vision. 2023. Harrison JP. Poster on Zenodo.\nBioDT: a digital twin for advanced simulation, modelling and prediction capabilities. 2022. Harrison JP. Presentation slides on Zenodo."
   }
 ]

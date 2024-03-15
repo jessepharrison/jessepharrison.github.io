@@ -63,7 +63,7 @@ title: "Publications"
 
 <small>
 
-3\. [Open research data and methods. National policy and executive plan by the higher education and research community for 2021–2025: Policy component 2 - open access to research methods and infrastructures](https://edition.fi/tsv/catalog/book/669). 2023. Open Science Coordination in Finland / The Committee for Public Information (TJNK) and Federation of Finnish Learned Societies (TSV). *National policy document providing recommendations for the openness of research  methods  and infrastructures.*
+3\. [Open research data and methods. National policy and executive plan by the higher education and research community for 2021–2025: Policy component 2 - open access to research methods and infrastructures](https://edition.fi/tsv/catalog/book/669). 2023. Open Science Coordination in Finland / The Committee for Public Information (TJNK) and Federation of Finnish Learned Societies (TSV). *National policy document providing recommendations for the openness of research methods and infrastructures.*
 
 2\. [Microplastic-associated biofilms: a comparison of freshwater and marine environments](https://link.springer.com/chapter/10.1007/978-3-319-61615-5_9). 2018. **Harrison JP**, Hoellein TJ, Sapp M, Tagg AS, Ju-Nam Y, Ojeda JJ. In: *Freshwater Microplastics* (Wagner M, Lambert S, eds). *The Handbook of Environmental Chemistry* 58, pp. 181--201. Springer. *Invited book chapter.*
 
@@ -75,17 +75,19 @@ title: "Publications"
 
 <small>
 
-3.\ [BioDT D1.2 - Data management plan](https://doi.org/10.5281/zenodo.7621030). 2022. **Harrison JP**, Allas A-L, Koivula H, Blankett R. *This deliverable was submitted to the granting authority on 25 November 2022. It has not yet been approved by the granting authority.*
+3. [BioDT D1.2 - Data management plan](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f44bcefb&appId=PPGMS). 2022. **Harrison JP**, Allas A-L, Koivula H, Blankett R.
 
-2.\ [PerMedCoE D1.2 - Software best practices and optimisation interim report](https://permedcoe.eu/wp-content/uploads/2023/04/D1.2_Software-best-practices-and-optimisation-interim-report_V1.0_20220331.pdf). 2022. **Harrison JP**, Montagud A, Noël V, Rodríguez-Mier P, Kratochvil M.
+2. [PerMedCoE D1.2 - Software best practices and optimisation interim report](https://permedcoe.eu/wp-content/uploads/2023/04/D1.2_Software-best-practices-and-optimisation-interim-report_V1.0_20220331.pdf). 2022. **Harrison JP**, Montagud A, Noël V, Rodríguez-Mier P, Kratochvil M.
 
-1.\ [PerMedCoE D2.2 - Midterm code release](https://permedcoe.eu/wp-content/uploads/2023/03/D2.2_Mid-Term-Code-Release_v1.0_20220330.pdf). 2022. **Harrison JP**, Conejero C, Gorroñogoitia J, Rodríguez-Mier P.
+1. [PerMedCoE D2.2 - Midterm code release](https://permedcoe.eu/wp-content/uploads/2023/03/D2.2_Mid-Term-Code-Release_v1.0_20220330.pdf). 2022. **Harrison JP**, Conejero C, Gorroñogoitia J, Rodríguez-Mier P.
 
-## Selected presentations and posters
+## Selected presentations, interviews and posters
 
-- [Biodiversity Digital Twin: general project vision](https://zenodo.org/record/8075657). 2023. Harrison JP. *Poster on Zenodo.*
+-   [BioDT Podcast Episode 1](https://open.spotify.com/episode/0xtMliwmq78GuDUxRWKwFJ?si=1ffe77c2017947a6). 2024. *Interview on project from scientific coordination perspective.*
 
-- [BioDT: a digital twin for advanced simulation, modelling and prediction capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
+-   [Biodiversity Digital Twin: general project vision](https://zenodo.org/record/8075657). 2023. Harrison JP. *Poster on Zenodo.*
+
+-   [BioDT: a digital twin for advanced simulation, modelling and prediction capabilities](https://doi.org/10.5281/zenodo.6841357). 2022. Harrison JP. *Presentation slides on Zenodo.*
 
 </small>
 

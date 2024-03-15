@@ -20,10 +20,12 @@ BioDT seeks to develop prototype digital twins to push the current boundaries of
 
 #### Tasks
 
--   Project Manager / PI
+-   Scientific Coordinator / PI
 -   Work Package member (simulation, modelling and data analytics)
 
 ------------------------------------------------------------------------
+
+## Past research projects
 
 ### PerMedCoE
 
@@ -43,26 +45,6 @@ PerMedCoE seeks to improve the usability and compatibility of key personalised m
 -   Organising Committee Member ([2023 PerMedCoE Summer School](https://permedcoe.eu/training/permedcoe-summer-school-on-cell-level-simulations/))
 
 ------------------------------------------------------------------------
-
-### LIFEPLAN
-
-[**A Planetary Inventory of Life**](https://cordis.europa.eu/project/id/856506)
-
--   **Funding:** ERC (€12M)
--   **Period:** 2020 - 2026
--   **Coordinator:** [University of Jyväskylä](https://www.jyu.fi/en)
-
-#### Description
-
-LIFEPLAN aims to establish the current state of biodiversity across the globe and to use the insights for generating accurate predictions of its future state under future scenarios.
-
-#### Tasks
-
--   Collaborator (upscaling of data analysis tools for high-performance computing)
-
-------------------------------------------------------------------------
-
-## Past research projects
 
 ### Postdoctoral projects
 
