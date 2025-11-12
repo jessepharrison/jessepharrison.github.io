@@ -1,0 +1,24 @@
+---
+title: 'ELLIOT project launch'
+author: Jesse Harrison
+date: '2025-07-21'
+slug: elliot-project-start
+categories:
+    - News
+description: 'EU-funded ELLIOT project launched July 2025'
+draft: false
+---
+
+<img src="preview.png" width="60%" height="60%"/>
+
+<small>
+
+*The EU-funded ELLIOT project aims to develop the next generation of open, trustworthy, and multi-modal foundation models that can effectively utilize diverse data types.*
+
+</small>
+
+------------------------------------------------------------------------
+
+[See here for a blog post on the launch of the Horizon Europe ELLIOT project](https://csc.fi/en/news/elliot-project-launched-csc-contributing-to-development-of-european-ai/), published on the CSC website. Examples of CSC contributions to the project include supporting the pretraining of large-scale foundation models using the LUMI supercomputer, participating in improving the core capabilities of the resulting models, and model fine-tuning.
+
+------------------------------------------------------------------------

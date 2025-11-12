@@ -2,9 +2,29 @@
 title: "Research and technical projects"
 ---
 
-This page offers short descriptions of projects I am currently involved in or have previously worked on.
+This page lists examples of EU-funded and national projects I am currently involved in or have previously worked on.
 
 ## Current research projects
+
+### ELLIOT
+
+[**European Large Open Multi-Modal Foundation Models For Robust Generalization On Arbitrary Data Streams**](https://www.elliot-ai.eu/)
+
+-   **Funding:** Horizon Europe (€25M)
+-   **Period:** 2025 - 2029
+-   **Coordinator:** [CERTH](https://www.certh.gr/root.en.aspx)
+
+#### Description
+
+ELLIOT seeks to develop a family of open trustworthy Multimodal Generalist Foundation Models: AI systems designed to learn general knowledge and patterns from massive amounts of data of various types (e.g. videos, images and text to sensor signals, industrial time series and satellite feeds) and efficiently transfer the knowledge gained to different downstream tasks.
+
+#### Tasks
+
+-   Local (CSC) PI
+
+------------------------------------------------------------------------
+
+## Past research projects
 
 ### BioDT
 
@@ -22,10 +42,6 @@ BioDT seeks to develop prototype digital twins to push the current boundaries of
 
 -   Scientific Coordinator / PI
 -   Work Package member (simulation, modelling and data analytics)
-
-------------------------------------------------------------------------
-
-## Past research projects
 
 ### PerMedCoE
 
@@ -51,8 +67,8 @@ PerMedCoE seeks to improve the usability and compatibility of key personalised m
 Topics I have worked on as part of postdoctoral positions (2012-2019) include:
 
 -   Planetary limits for life and the habitability of multi-extreme environments (funding: [STFC](https://www.ukri.org/councils/stfc/))
--   Bioinformatics as part of [NASA BASALT (Biologic Analog Science Associated with Lava Terrains)](https://www.nasa.gov/content/about-basalt/)
--   Metabarcoding as a tool for monitoring ecosystem health (funding: [Academy of Finland](https://www.aka.fi/en/))
+-   Bioinformatics as part of [NASA BASALT (Biologic Analog Science Associated with Lava Terrains)](https://www.nasa.gov/space-science-and-astrobiology-at-ames/research-teams/all-research-teams/basalt-home-page/)
+-   Metabarcoding as a tool for monitoring ecosystem health (funding: [Research Council of Finland](https://www.aka.fi/en/))
 
 ------------------------------------------------------------------------
 

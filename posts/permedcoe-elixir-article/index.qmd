@@ -4,7 +4,6 @@ author: Jesse Harrison
 date: '2022-08-25'
 slug: permedcoe-elixir-feature
 categories:
-    - PerMedCoE
     - News
 description: 'Feature on PerMedCoE published on ELIXIR Finland website'
 draft: false

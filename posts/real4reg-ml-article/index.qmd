@@ -1,0 +1,24 @@
+---
+title: 'Blog post on ML for sensitive data'
+author: Jesse Harrison
+date: '2025-10-13'
+slug: real4reg-ml-feature
+categories:
+    - News
+description: 'Blog post on machine learning for sensitive data on Real4RegG website'
+draft: false
+---
+
+<img src="preview.png" width="60%" height="60%"/>
+
+<small>
+
+*Real4Reg is a consortium of ten European institutions which aims to promote the use of real-world data to support regulatory decisions about medicines.*
+
+</small>
+
+------------------------------------------------------------------------
+
+[A short blog post](https://www.real4reg.eu/news-events/news/machine-learning-on-sensitive-data/) prepared for the [EU-funded Real4Reg project](https://www.real4reg.eu/), focusing on machine learning on sensitive data. CSC contributes to topics related to data science, ML, and AI in the Real4Reg consortium, including data analysis tasks using the [CSC Sensitive Data Desktop](https://research.csc.fi/service/sd-desktop/).
+
+------------------------------------------------------------------------
