@@ -14,8 +14,10 @@ Courses I have developed and taught at [CSC - IT Center for Science Ltd](https:/
 
 I have also taught R courses at the [University of Helsinki](https://www.helsinki.fi/en) (KLTO-132 Statistics with R).
 
-## Further courses and project supervision
+## Further courses and project / thesis supervision
 
+- **2025**: Masters Thesis Advisor (jointly with Aalto University; [report available here](https://aaltodoc.aalto.fi/server/api/core/bitstreams/4f231f96-19e3-48b2-b0d1-9e7fd4adb583/content))
+- **2025**: Bachelors Thesis Supervisor (jointly with Kajaani University of Applied Sciences; [report available here](https://www.theseus.fi/handle/10024/905878)) 
 - **2013–2017:** Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)
 - **2016:** Practical Instructor ([International FISH Course](http://www.microbial-ecology.net/international-fish-course), University of Vienna) 
 - **2012–2013:** MOOC Teaching Assistant ([Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology), University of Edinburgh)
